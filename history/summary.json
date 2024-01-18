@@ -1,22 +1,22 @@
 [
   {
     "name": "Holafly e-commerce web",
-    "url": "https://esim.holafly.iii",
-    "icon": "https://icons.duckduckgo.com/ip3/esim.holafly.iii.ico",
+    "url": "https://esim.holafly.com",
+    "icon": "https://icons.duckduckgo.com/ip3/esim.holafly.com.ico",
     "slug": "holafly-e-commerce-web",
-    "status": "down",
-    "uptime": "76.82%",
-    "uptimeDay": "76.82%",
-    "uptimeWeek": "76.82%",
-    "uptimeMonth": "76.82%",
-    "uptimeYear": "76.82%",
-    "time": 356,
-    "timeDay": 356,
-    "timeWeek": 356,
-    "timeMonth": 356,
-    "timeYear": 356,
+    "status": "up",
+    "uptime": "73.96%",
+    "uptimeDay": "73.96%",
+    "uptimeWeek": "73.96%",
+    "uptimeMonth": "73.96%",
+    "uptimeYear": "73.96%",
+    "time": 365,
+    "timeDay": 365,
+    "timeWeek": 365,
+    "timeMonth": 365,
+    "timeYear": 365,
     "dailyMinutesDown": {
-      "2024-01-18": 52
+      "2024-01-18": 61
     }
   },
   {
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/holaf.ly.ico",
     "slug": "shortener",
     "status": "up",
-    "uptime": "79.01%",
-    "uptimeDay": "79.01%",
-    "uptimeWeek": "79.01%",
-    "uptimeMonth": "79.01%",
-    "uptimeYear": "79.01%",
-    "time": 431,
-    "timeDay": 431,
-    "timeWeek": 431,
-    "timeMonth": 431,
-    "timeYear": 431,
+    "uptime": "80.02%",
+    "uptimeDay": "80.02%",
+    "uptimeWeek": "80.02%",
+    "uptimeMonth": "80.02%",
+    "uptimeYear": "80.02%",
+    "time": 440,
+    "timeDay": 440,
+    "timeWeek": 440,
+    "timeMonth": 440,
+    "timeYear": 440,
     "dailyMinutesDown": {
       "2024-01-18": 36
     }
