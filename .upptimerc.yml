@@ -28,7 +28,7 @@ status-website:
   introMessage: You can check details in each incident if you want. This page is automatically updated every 10 minutes.
   navbar:
     - title: Status
-      href: https://$OWNER.github.io/holafly-status-page/
+      href: https://$OWNER.github.io/holafly-status-page
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
