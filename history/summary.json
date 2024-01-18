@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/esim.holafly.com.ico",
     "slug": "holafly-e-commerce-web",
     "status": "up",
-    "uptime": "35.08%",
-    "uptimeDay": "35.08%",
-    "uptimeWeek": "35.08%",
-    "uptimeMonth": "35.08%",
-    "uptimeYear": "35.08%",
-    "time": 349,
-    "timeDay": 349,
-    "timeWeek": 349,
-    "timeMonth": 349,
-    "timeYear": 349,
+    "uptime": "41.21%",
+    "uptimeDay": "41.21%",
+    "uptimeWeek": "41.21%",
+    "uptimeMonth": "41.21%",
+    "uptimeYear": "41.21%",
+    "time": 327,
+    "timeDay": 327,
+    "timeWeek": 327,
+    "timeMonth": 327,
+    "timeYear": 327,
     "dailyMinutesDown": {
       "2024-01-18": 52
     }
@@ -24,19 +24,39 @@
     "url": "https://holaf.ly",
     "icon": "https://icons.duckduckgo.com/ip3/holaf.ly.ico",
     "slug": "shortener",
+    "status": "up",
+    "uptime": "0.24%",
+    "uptimeDay": "0.24%",
+    "uptimeWeek": "0.24%",
+    "uptimeMonth": "0.24%",
+    "uptimeYear": "0.24%",
+    "time": 569,
+    "timeDay": 569,
+    "timeWeek": 569,
+    "timeMonth": 569,
+    "timeYear": 569,
+    "dailyMinutesDown": {
+      "2024-01-18": 36
+    }
+  },
+  {
+    "name": "Activaciones",
+    "url": "https://activaciones.holafly.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/activaciones.holafly.com.ico",
+    "slug": "activaciones",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "16.94%",
+    "uptimeDay": "16.94%",
+    "uptimeWeek": "16.94%",
+    "uptimeMonth": "16.94%",
+    "uptimeYear": "16.94%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-18": 28
+      "2024-01-18": 0
     }
   }
 ]
