@@ -1,22 +1,42 @@
 [
   {
     "name": "Holafly e-commerce web",
-    "url": "https://esim.holafly.com/",
+    "url": "https://esim.holafly.com",
     "icon": "https://icons.duckduckgo.com/ip3/esim.holafly.com.ico",
     "slug": "holafly-e-commerce-web",
+    "status": "up",
+    "uptime": "0.22%",
+    "uptimeDay": "0.22%",
+    "uptimeWeek": "0.22%",
+    "uptimeMonth": "0.22%",
+    "uptimeYear": "0.22%",
+    "time": 333,
+    "timeDay": 333,
+    "timeWeek": 333,
+    "timeMonth": 333,
+    "timeYear": 333,
+    "dailyMinutesDown": {
+      "2024-01-18": 52
+    }
+  },
+  {
+    "name": "Shortener",
+    "url": "https://holaf.ly",
+    "icon": "https://icons.duckduckgo.com/ip3/holaf.ly.ico",
+    "slug": "shortener",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "1.42%",
+    "uptimeDay": "1.42%",
+    "uptimeWeek": "1.42%",
+    "uptimeMonth": "1.42%",
+    "uptimeYear": "1.42%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-18": 43
+      "2024-01-18": 0
     }
   }
 ]
