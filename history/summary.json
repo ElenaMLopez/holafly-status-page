@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/esim.holafly.com.ico",
     "slug": "holafly-e-commerce-web",
     "status": "up",
-    "uptime": "0.43%",
-    "uptimeDay": "0.43%",
-    "uptimeWeek": "0.43%",
-    "uptimeMonth": "0.43%",
-    "uptimeYear": "0.43%",
-    "time": 333,
-    "timeDay": 333,
-    "timeWeek": 333,
-    "timeMonth": 333,
-    "timeYear": 333,
+    "uptime": "20.59%",
+    "uptimeDay": "20.59%",
+    "uptimeWeek": "20.59%",
+    "uptimeMonth": "20.59%",
+    "uptimeYear": "20.59%",
+    "time": 313,
+    "timeDay": 313,
+    "timeWeek": 313,
+    "timeMonth": 313,
+    "timeYear": 313,
     "dailyMinutesDown": {
       "2024-01-18": 52
     }
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/holaf.ly.ico",
     "slug": "shortener",
     "status": "down",
-    "uptime": "4.56%",
-    "uptimeDay": "4.56%",
-    "uptimeWeek": "4.56%",
-    "uptimeMonth": "4.56%",
-    "uptimeYear": "4.56%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-18": 0
+      "2024-01-18": 13
     }
   }
 ]
