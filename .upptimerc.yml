@@ -22,7 +22,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /holafly-status-page
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://tzgvp7n8bz3v-u4239.pressidiumcdn.com/es/wp-content/themes/Holafly_v2-child/recursos/img/H.svg
   name: Holafly Status
   introTitle: "Here you can see the Holafly services and pages status"
   introMessage: You can check details in each incident if you want. This page is automatically updated every 10 minutes.
